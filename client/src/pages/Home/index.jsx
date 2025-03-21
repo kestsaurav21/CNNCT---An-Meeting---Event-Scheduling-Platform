@@ -5,6 +5,7 @@ import HeroSection from '../../components/HeroSection';
 import FeatureSection from '../../components/FeatureSection';
 import Testimonials from '../../components/Testimonials';
 import Integration from '../../components/Integrations';
+import Footer from '../../components/Footer';
 
 const Home = () => {
 
@@ -22,6 +23,7 @@ const Home = () => {
         <FeatureSection features={data.features} />
         <Testimonials testimonials={data.testimonials} />
         <Integration integrations={data.integrations} />
+        <Footer links={data.footer.links} text={data.footer.text}  />
     </div>
   )
 }

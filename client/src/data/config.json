@@ -108,8 +108,24 @@
       }
   ],
     "footer": {
-      "text": "© 2025 All Rights Reserved.",
-      "links": ["Privacy Policy", "Terms of Service", "Contact Us"]
+      "links": [
+        "About CNNCT", 
+        "Blog", 
+        "Press",
+        "Social Good",
+        "Contact",
+        "Careers",
+        "Getting Started",
+        "Features and How-Tos",
+        "FAQs",
+        "Report a violation",
+        "Terms and Conditions",
+        "Privacy Policy",
+        "Cookie Notice",
+        "Trust Center"                      
+      ],
+      "text": "We acknowledge the Traditional Custodians of the land on which our office stands, The Wurundjeri people of the Kulin Nation, and pay our respects to Elders past, present and emerging."
+      
     }
   }
   
