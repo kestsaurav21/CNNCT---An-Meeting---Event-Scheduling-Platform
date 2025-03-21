@@ -2,6 +2,7 @@
     "hero": {
       "title": "CNCT – Easy \nScheduling Ahead",
       "cta": "Sign up free",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/spark-78288.firebasestorage.app/o/meet%2Fhero-image.png?alt=media&token=fb63eefa-27fe-4ce9-90ed-7ce36d072120",
       "text": "Simplified scheduling for you and your team.",
       "description": "CNCT eliminates the back-and-forth of scheduling meetings so you can focus on what matters. Set your availability, share your link, and let others book time with you instantly."
     },
@@ -12,26 +13,100 @@
           "View all your upcoming meetings and appointments in one place.",
           "Syncs with Google Calendar, Outlook, and iCloud to avoid conflicts.",
           "Customize event types: one-on-ones, team meetings, group sessions, and webinars."
-        ]
+        ],
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/spark-78288.firebasestorage.app/o/meet%2Ffeature-image.png?alt=media&token=70b098e2-671d-4638-86e7-e21fd576c06a"
       }
     ],
     "testimonials": [
       {
-        "name": "John Koster",
-        "role": "Director, Spotcom",
-        "text": "Amazing tool! Saved me months of work."
+        "id": 1,
+        "text": "Amazing tool! Saved me months",
+        "reviewComment": "This is a placeholder for your testimonials and what your client has to say, put them here and make sure it's 100% true and meaningful.",
+        "userImage": "https://firebasestorage.googleapis.com/v0/b/spark-78288.firebasestorage.app/o/meet%2Favatar.png?alt=media&token=30658847-cd60-4438-a84a-aacd7b469476",
+        "name": "John Master",
+        "role": "Director, Spark.com"
       },
       {
-        "name": "Janet Merton",
-        "role": "Director, Spotcom",
-        "text": "This is placeholder text for testimonials, make it true and meaningful."
+        "id": 2,
+        "text": "Amazing tool! Saved me months",
+        "reviewComment": "This is a placeholder for your testimonials and what your client has to say, put them here and make sure it's 100% true and meaningful.",
+        "userImage": "https://firebasestorage.googleapis.com/v0/b/spark-78288.firebasestorage.app/o/meet%2Favatar.png?alt=media&token=30658847-cd60-4438-a84a-aacd7b469476",
+        "name": "John Master",
+        "role": "Director, Spark.com"
+      },
+      {
+        "id": 3,
+       "text": "Amazing tool! Saved me months",
+        "reviewComment": "This is a placeholder for your testimonials and what your client has to say, put them here and make sure it's 100% true and meaningful.",
+        "userImage": "https://firebasestorage.googleapis.com/v0/b/spark-78288.firebasestorage.app/o/meet%2Favatar.png?alt=media&token=30658847-cd60-4438-a84a-aacd7b469476",
+        "name": "John Master",
+        "role": "Director, Spark.com"
+      },
+      {
+        "id": 4,
+        "text": "Amazing tool! Saved me months",
+        "reviewComment": "This is a placeholder for your testimonials and what your client has to say, put them here and make sure it's 100% true and meaningful.",
+        "userImage": "https://firebasestorage.googleapis.com/v0/b/spark-78288.firebasestorage.app/o/meet%2Favatar.png?alt=media&token=30658847-cd60-4438-a84a-aacd7b469476",
+        "name": "John Master",
+        "role": "Director, Spark.com"
       }
     ],
     "integrations": [
-      { "name": "Audiomack", "description": "Add an audio/music player to your Linktree" },
-      { "name": "Bandisintown", "description": "Let visitors buy tickets for your events" },
-      { "name": "Bonfire", "description": "Display and sell your custom merch" }
-    ],
+      {
+          "id": 1,
+          "name": "Audiomack",
+          "description": "Add an Audiomack player to your Linktree",
+          "url": "https://firebasestorage.googleapis.com/v0/b/spark-78288.firebasestorage.app/o/apps%2Faudiomack.png?alt=media&token=e351b90f-2979-465f-ad6c-9d2bbaf4c4bb"
+      },
+      {
+          "id": 2,
+          "name": "Bandsintown",
+          "description": "Drive ticket sales by listing your events",
+          "url": "https://firebasestorage.googleapis.com/v0/b/spark-78288.firebasestorage.app/o/apps%2Fbandsintown.png?alt=media&token=863b147a-059d-4521-8997-4fbffb5aad62"
+      },
+      {
+          "id": 3,
+          "name": "Bonfire",
+          "description": "Display and sell your custom merch",
+          "url": "https://firebasestorage.googleapis.com/v0/b/spark-78288.firebasestorage.app/o/apps%2Fbonfire.png?alt=media&token=bfdf54fc-89a5-4fb8-afbb-6eb5602ca32d"
+      },
+      {
+          "id": 4,
+          "name": "Books",
+          "description": "Promote books on your Linktree",
+          "url": "https://firebasestorage.googleapis.com/v0/b/spark-78288.firebasestorage.app/o/apps%2Fbooks.png?alt=media&token=cedd58d1-1448-45a4-9fa2-29188386bb7a"
+      },
+      {
+          "id": 5,
+          "name": "Buy Me A Gift",
+          "description": "Let visitors support you with a small gift",
+          "url": "https://firebasestorage.googleapis.com/v0/b/spark-78288.firebasestorage.app/o/apps%2Fbuymegift.png?alt=media&token=3c8c8f73-7e73-4e1a-b9f5-a0de09f8a9a4"
+      },
+      {
+          "id": 6,
+          "name": "Cameo",
+          "description": "Make impossible fan connections possible",
+          "url": "https://firebasestorage.googleapis.com/v0/b/spark-78288.firebasestorage.app/o/apps%2Fcameo.png?alt=media&token=e9614e17-19a8-4dba-986b-7cfb483273ca"
+      },
+      {
+          "id": 7,
+          "name": "Clubhouse",
+          "description": "Let your community in on the conversation",
+          "url": "https://firebasestorage.googleapis.com/v0/b/spark-78288.firebasestorage.app/o/apps%2Fclubhouse.png?alt=media&token=fd472cfe-5d6e-401b-b614-a9dda2224612"
+      },
+      {
+          "id": 8,
+          "name": "Community",
+          "description": "Build an SMS subscriber list",
+          "url": "https://firebasestorage.googleapis.com/v0/b/spark-78288.firebasestorage.app/o/apps%2Fcommunity.png?alt=media&token=032ec945-4518-4560-a159-41d39827d415"
+      },
+      {
+          "id": 9,
+          "name": "Contact Details",
+          "description": "Easily share downloadable contact details",
+          "url": "https://firebasestorage.googleapis.com/v0/b/spark-78288.firebasestorage.app/o/apps%2Fcontact.png?alt=media&token=31370f4e-d63e-44da-9828-cb8d747f2b4e"
+      }
+  ],
     "footer": {
       "text": "© 2025 All Rights Reserved.",
       "links": ["Privacy Policy", "Terms of Service", "Contact Us"]
