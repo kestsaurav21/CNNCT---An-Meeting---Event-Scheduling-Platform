@@ -7,7 +7,7 @@ const Header = () => {
             <div className='header__logo'>
                 <img src={logo} alt="logo" />
             </div>
-            <button>Sign Up Free</button> 
+            <button className='primary-button'>Sign Up Free</button> 
 
         </div>
     )
