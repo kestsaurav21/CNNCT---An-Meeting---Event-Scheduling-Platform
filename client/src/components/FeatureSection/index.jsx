@@ -1,8 +1,9 @@
 import React from 'react'
-import './style.css'
 import featureImage from '../../assets/feature-image.png';
+import './style.css'
 
 const FeatureSection = ({ features }) => {
+
   return (
     <div className='feature-section'>
         <section className="features-text">
@@ -18,7 +19,8 @@ const FeatureSection = ({ features }) => {
         ))}
         </section>
         <section className="features-image">
-            <img className="image" src={featureImage} alt="feature-image" />
+          
+            <img className="image" src={!features[0].imageUrl || featureImage } alt="feature-image" />
         </section>
 
     </div>
